@@ -1,30 +1,73 @@
-## Lucas da Costa
-<div align="center">
-  <a href="https://github.com/DevLucasDaCosta">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=DevLucasDaCosta&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasDaCosta&layout=compact&langs_count=7&theme=blueberry"/>
-</div>
+# Lucas da Costa
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Expo" height="20" width="30" src="https://static-00.iconduck.com/assets.00/expo-icon-512x453-cg6tejpq.png">
-  &nbsp &nbsp<img align="center" alt="NextJs" height="30" width="30" fill="white" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-</div>
+**Software Engineer | Fullstack Developer | São Paulo, Brasil**
 
-##
+Sou um engenheiro de software com experiência em alguns diferentes segmentos de mercado. Atualmente trabalho como Desenvolvedor Fullstack com foco nas tecnologias Go, React e Flutter.
 
-<div> 
-  <a href = "mailto:lucas.costa2319@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-da-costaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## Sobre Mim
 
-##
+- **Fullstack Developer**
+- **Estudante** de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie (2025-2027)
+- **Experiência** em desenvolvimento mobile com Flutter e web com React. js
+- **Formação Técnica** em Mecatrônica, Robótica e Engenharia de Controle (ETEC)
+- **Metodologias Ágeis** com experiência prática em SCRUM
+- **Idiomas:** Português (nativo) e Inglês (profissional)
+
+## Stacks 
+
+### Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Banco de Dados & Ferramentas
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-001d2a?style=for-the-badge&logo=MongoDB&logoColor=00e661)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+```javascript
+const lucas = {
+  languages:  ['JavaScript', 'Go', 'C#', 'Python', 'Dart'],
+  frameworks:  ['React.js', 'Flutter', 'ASP.NET MVC', 'Next.js', 'Expo'],
+  databases: ['MySQL', 'MongoDB'],
+  tools: ['Git', 'Docker', 'Linux', 'Swagger', 'Trello', 'Canva'],
+  testing: ['Testes Unitários', 'Testes de Integração', 'Testes E2E'],
+  methodologies: ['SCRUM', 'Kanban', 'Clean Architecture'],
+  specialties: ['ERP/SGW/WMS', 'Mobile Development', 'SEO', 'Google Ads'],
+  interests: ['Automação', 'DevOps', 'UX/UI', 'Performance Optimization']
+};
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevLucasDaCosta&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasDaCosta&layout=compact&theme=dark)
+
+## Competências Técnicas
+
+- **Arquiteturas:** MVC, Clean Architecture
+- **Testes:** Unitários, Integração, End-to-End
+- **DevOps:** CI/CD, Docker, Linux
+- **Metodologias:** SCRUM, Kanban
+- **Soft Skills:** Resolução de problemas, comunicação eficaz, trabalho em equipe
+
+## Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-da-costaa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucascosta.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.lucas.dacosta@gmail.com) 
+
+---
+
+**Sempre aberto para novos desafios e oportunidades de colaboração!**  
+**Localização:** São Paulo, SP  
+**Contato:** (11) 97109-0202
