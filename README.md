@@ -68,6 +68,5 @@ const lucas = {
 
 ---
 
-**Sempre aberto para novos desafios e oportunidades de colaboração!**  
 **Localização:** São Paulo, SP  
 **Contato:** (11) 97109-0202
