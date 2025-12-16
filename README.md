@@ -48,8 +48,6 @@ const lucas = {
 };
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevLucasDaCosta&show_icons=true&theme=dark&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasDaCosta&layout=compact&theme=dark)
 
 ## Competências Técnicas
